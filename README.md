@@ -4,7 +4,7 @@
 
 ## Descrição/description
 
-Projeto final do curso de Flexbox do Origamid. 
+Projeto final do curso de Flexbox do Origamid. https://www.origamid.com/
 
 #### Foi usado na construção desse projeto/Was used in this project:
 
